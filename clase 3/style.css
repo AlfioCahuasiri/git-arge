@@ -1,0 +1,38 @@
+body{
+    background-color: #CD6155;
+}
+.presente{
+    text-align: center;
+    color: snow;
+    font-size: 40px;
+    background-color: rgb(189, 160, 160);
+    border-radius: 10px;
+}
+
+.img{  
+        width:620px;
+        height:370px;
+        
+}
+.arge {
+    text-align: center;
+    color: snow;
+    
+}
+.argeee{
+    text-align: center;
+    color: snow;
+}
+.ar{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    color: snow;
+}
+.perro{
+    text-align: center;
+    color: snow;
+}
+.perr{
+    text-align: center;
+}
